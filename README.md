@@ -369,6 +369,23 @@ You can disable this by running the following:
 REG DELETE HKCU\CONSOLE /f /v VirtualTerminalLevel
 ```
 
+## Resources and Articles about the IPinfo CLI
+
+### Blogs articles on IPinfo's CLI-
+
+- [[IPinfo Blog] A Comprehensive Guide to IPinfo's CLI](https://ipinfo.io/blog/tag/cli/)
+  - [Meet the official IPinfo CLI](https://ipinfo.io/blog/meet-the-official-ipinfo-cli/)
+  - [Introduction to the IPinfo CLI](https://ipinfo.io/blog/ipinfo-cli-overview/)
+  - [IPinfo CLI: How to filter IPs](https://ipinfo.io/blog/how-to-filter-ips/)
+  - [IPinfo CLI: Lookup IP or ASN details](https://ipinfo.io/blog/cli-lookup-ip-or-asn-details/)
+
+### Resources on IPinfo's CLI -
+
+- [IPinfo CLI Cheatsheet](https://twitter.com/ipinfoio/status/1556944377649549313/photo/1)
+
+Have a blog article or a resource you created yourself? **Send us a PR!**
+
+
 ## Other IPinfo Tools
 
 There are official IPinfo client libraries available for many languages including PHP, Python, Go, Java, Ruby, and many popular frameworks such as Django, Rails and Laravel. There are also many third party libraries and integrations available for our API.
